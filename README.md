@@ -34,5 +34,6 @@ conda env create -f env_irp.yml
 conda activate irpdavideenv
 ```
 
-3. Open Main_notebook_quick_run_saved_model.ipynb and run all 
+3. Open Main_notebook_quick_run_saved_model.ipynb. 
+   You won't be able to run it because the data is confidential
 
